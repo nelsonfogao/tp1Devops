@@ -1,0 +1,6 @@
+@TP1devops_HostAddress = http://localhost:5204
+
+GET {{TP1devops_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nelso\OneDrive\Área de Trabalho\tp1devops\TP1devops\Domain\obj\Debug\net8.0\ref\Domain.dll
